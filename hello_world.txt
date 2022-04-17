@@ -1,1 +1,3 @@
-Some text.
+First Git test.
+
+Second practice with added text.
