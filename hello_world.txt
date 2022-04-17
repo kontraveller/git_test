@@ -3,4 +3,4 @@ First Git test.
 Second practice with added text.
 ...and more practice. Getting used to add, commit -m
 and commit without the m-flag (adding a commit message
-with Visual Studio Code).
+with Visual Studio Code afterwards).
